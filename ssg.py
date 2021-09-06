@@ -9,4 +9,4 @@ def main(source="content", dest="dist"):
     site.build()
 
 
-typer.run(main())
+typer.run(main)
